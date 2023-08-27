@@ -16,6 +16,10 @@ Your quest, should you choose to accept it, involves the mystical numbers of the
 
 Your mission, noble coders, is to traverse the numbers from 1 to 100, paying your respects to Fizz, Buzz, and their hybrids as you go. Write a spell (code, for the uninitiated) to guide you through this enchanted numerical landscape.
 
+**May the Fizz be with you, may your Buzz be ever resonant, and may you unlock the secrets of the Wizz! 🌟**
+
+Ready? Set? Code! 🚀
+
 ## Bonus Mission: The Secret Numbers of FizzBuzz 🌟🔍
 
 Just when you thought your quest was complete, a new challenge emerges from the depths of the FizzBuzz Kingdom! The wise Oracle of FizzBuzz reveals a hidden prophecy:
@@ -29,8 +33,3 @@ Your bonus mission, should you dare to accept, is to extend your spell (code) to
 **Can you master this ultimate challenge and become a FizzBuzz Legend? 🌟**
 
 Ready for more? Set? Code again! 🚀
-
-
-**May the Fizz be with you, may your Buzz be ever resonant, and may you unlock the secrets of the Wizz! 🌟**
-
-Ready? Set? Code! 🚀
